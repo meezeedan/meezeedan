@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Html Css java and react
 - 💞️ I’m looking to collaborate on University
 - 😄 Pronouns: im handsome
-- ⚡ Fun fact: I likeb girl
+- ⚡ Fun fact: I like girl
 
 <!---
 meezeedan/meezeedan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
